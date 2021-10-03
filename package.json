@@ -1,0 +1,20 @@
+{
+  "name": "Elixir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haydn26/Elixir.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haydn26/Elixir/issues"
+  },
+  "homepage": "https://github.com/Haydn26/Elixir#readme"
+}
