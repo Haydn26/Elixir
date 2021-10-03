@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Haydn26/Elixir/issues"
   },
-  "homepage": "https://github.com/Haydn26/Elixir#readme"
+  "homepage": "https://github.com/Haydn26/Elixir#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.1"
+  }
 }
